@@ -7,11 +7,16 @@ Enhancing Performance Hatred by Targets for Hate Speech Detection on Vietnamese 
 Experimental and Result
 -Comparing 3 situation in applying this method:
 +Only normalizing data
+
 +Augmenting data first and then normalizing data
+
 +Normaling data first and them augmenting data
 
 -Model:
 +Bi-GRU-LSTM-CNN
+
 +XLM-R
+
 +ViSoBert
+
 +PhoBert
