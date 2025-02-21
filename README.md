@@ -1,4 +1,4 @@
-# 🚀 DS310.P11: Enhancing Performance in Hate Speech Detection for Vietnamese Social Media Texts  
+# 🚀 Enhancing Performance in Hate Speech Detection for Vietnamese Social Media Texts  
 
 ## 📌 Overview  
 This project focuses on improving **hate speech detection** in **Vietnamese social media texts**, addressing challenges such as **imbalanced multilabel data** and **text normalization**.  
